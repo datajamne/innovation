@@ -1,0 +1,3000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-09-18T09:06:02Z"/>
+
+  <node id="29064297" lat="55.0055346" lon="-1.6083939" version="8" timestamp="2018-04-09T20:03:52Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="South Gosforth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="29081582" lat="54.9997607" lon="-1.6109482" version="7" timestamp="2018-04-09T20:03:52Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Ilford Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="35965137" lat="54.9594713" lon="-1.4611244" version="11" timestamp="2018-04-09T20:10:15Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Brockley Whins"/>
+    <tag k="naptan:AtcoCode" v="9100BRWHINS"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="wikidata" v="Q4972838"/>
+  </node>
+  <node id="35965147" lat="54.9461465" lon="-1.4196308" version="12" timestamp="2018-04-09T20:10:15Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="East Boldon"/>
+    <tag k="naptan:AtcoCode" v="9100EBOLDON"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="59972882" lat="54.9107486" lon="-1.3836595" version="10" timestamp="2018-04-09T20:10:15Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="St Peter's"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="59972884" lat="54.9179305" lon="-1.3829749" version="10" timestamp="2018-04-09T20:10:15Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Stadium of Light"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="164276853" lat="55.0120117" lon="-1.6222103" version="9" timestamp="2018-04-09T20:03:52Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Regent Centre"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="204903256" lat="55.0142837" lon="-1.6359573" version="11" timestamp="2018-04-09T20:03:52Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Wansbeck Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205146083" lat="54.9739696" lon="-1.6049937" version="16" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Manors"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="205175999" lat="55.0144437" lon="-1.6650462" version="11" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Kingston Park"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205176016" lat="55.0139049" lon="-1.6780520" version="8" timestamp="2018-04-09T19:52:22Z" changeset="57950948" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Bank Foot"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205176033" lat="55.0279315" lon="-1.7036592" version="9" timestamp="2018-04-09T19:52:22Z" changeset="57950948" uid="493192" user="Santi2222">
+    <tag k="layer" v="1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Callerton Parkway"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="wikidata" v="Q5021911"/>
+  </node>
+  <node id="205195318" lat="55.0089604" lon="-1.5921527" version="10" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Longbenton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205195335" lat="55.0099908" lon="-1.5789512" version="10" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Four Lane Ends"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205195346" lat="55.0136187" lon="-1.5685014" version="8" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Benton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205206298" lat="55.0233735" lon="-1.5418951" version="9" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Palmersville"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205206318" lat="55.0329092" lon="-1.5201017" version="10" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Northumberland Park"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205206338" lat="55.0369936" lon="-1.5049959" version="7" timestamp="2018-04-09T20:03:53Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Shiremoor"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="205209751" lat="55.0406883" lon="-1.4756140" version="6" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="West Monkseaton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="206103761" lat="54.9828708" lon="-1.6056419" version="6" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Jesmond"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="206143925" lat="54.9293989" lon="-1.3863946" version="8" timestamp="2018-04-09T20:10:15Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Seaburn"/>
+    <tag k="naptan:AtcoCode" v="9100SEABURN"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208514988" lat="54.9828038" lon="-1.5723611" version="10" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Chillingham Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208515010" lat="54.9921916" lon="-1.5163428" version="8" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Hadrian Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208515011" lat="54.9895123" lon="-1.5331892" version="8" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Wallsend"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208515015" lat="54.9958080" lon="-1.4947750" version="8" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Howdon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208515028" lat="55.0079033" lon="-1.4493522" version="7" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="North Shields"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208515030" lat="54.9994809" lon="-1.4749785" version="8" timestamp="2018-04-09T20:03:54Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Percy Main"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208516300" lat="55.0345545" lon="-1.4360504" version="9" timestamp="2018-04-09T20:03:55Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Cullercoats"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="208516315" lat="55.0421069" lon="-1.4577431" version="7" timestamp="2018-04-09T20:03:55Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Monkseaton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208519345" lat="54.9755766" lon="-1.5207506" version="7" timestamp="2018-04-09T20:03:55Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Hebburn"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="wikidata" v="Q5695378"/>
+  </node>
+  <node id="208519376" lat="54.9794432" lon="-1.4932050" version="7" timestamp="2018-04-09T20:03:55Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Jarrow"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208519391" lat="54.9717996" lon="-1.4559096" version="7" timestamp="2018-04-09T20:03:55Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Simonside"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="wikidata" v="Q7520496"/>
+  </node>
+  <node id="208519409" lat="54.9864038" lon="-1.4319970" version="4" timestamp="2018-04-09T20:03:55Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Chichester"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208519418" lat="54.9982576" lon="-1.4334470" version="8" timestamp="2018-04-09T20:03:55Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="South Shields"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208519422" lat="54.9761053" lon="-1.4416188" version="7" timestamp="2018-06-08T14:40:04Z" changeset="59669493" uid="115894" user="DaveF">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Tyne Dock"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208521082" lat="54.9023118" lon="-1.3845618" version="10" timestamp="2018-04-16T20:21:58Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="Park Lane"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="208521086" lat="54.9027493" lon="-1.3916351" version="7" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="University"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208521106" lat="54.9044702" lon="-1.4473547" version="7" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="South Hylton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208521107" lat="54.9127812" lon="-1.4173998" version="7" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Pallion"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208521109" lat="54.9062709" lon="-1.4007071" version="6" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Millfield"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208533008" lat="54.9761003" lon="-1.5798166" version="10" timestamp="2018-04-09T20:03:56Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Byker"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="208564843" lat="54.9616866" lon="-1.6056240" version="11" timestamp="2018-04-09T20:03:56Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="-2"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Gateshead"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="299498726" lat="54.9514892" lon="-1.5563979" version="10" timestamp="2018-04-09T20:03:56Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="-1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Heworth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="299498935" lat="54.9578066" lon="-1.5886191" version="10" timestamp="2018-04-09T20:03:56Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Gateshead Stadium"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="308547238" lat="55.0014752" lon="-1.4659854" version="10" timestamp="2018-04-09T20:03:56Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Meadow Well"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="old_name" v="Smith's Park"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="317395907" lat="54.9688135" lon="-1.6167759" version="20" timestamp="2018-06-18T22:46:43Z" changeset="59959512" uid="3149234" user="lakedistrict">
+    <tag k="light_rail" v="yes"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Central Station"/>
+    <tag k="naptan:AtcoCode" v="9400ZZTWCST1"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="502598314" lat="55.0423041" lon="-1.4585152" version="7" timestamp="2018-04-17T13:34:31Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="local_ref" v="NW"/>
+    <tag k="name" v="Monkseaton"/>
+    <tag k="naptan:AtcoCode" v="9400ZZTWMST"/>
+    <tag k="naptan:CommonName" v="MONKSEATON"/>
+    <tag k="naptan:verified" v="no"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="naptan_import"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="502598580" lat="54.9932223" lon="-1.6095837" version="7" timestamp="2018-04-09T20:03:57Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="local_ref" v="S"/>
+    <tag k="name" v="West Jesmond"/>
+    <tag k="naptan:AtcoCode" v="4100009MS05A"/>
+    <tag k="naptan:Bearing" v="S"/>
+    <tag k="naptan:CommonName" v="WEST JESMOND"/>
+    <tag k="naptan:Indicator" v="S"/>
+    <tag k="naptan:Landmark" v="THE LONSDALE PUBLIC HOUSE"/>
+    <tag k="naptan:NaptanCode" v="twrapmdt"/>
+    <tag k="naptan:PlusbusZoneRef" v="NWCSTLE"/>
+    <tag k="naptan:Street" v="WEST JESMOND METRO STATION"/>
+    <tag k="naptan:verified" v="yes"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="source" v="naptan_import"/>
+  </node>
+  <node id="502599446" lat="54.9936952" lon="-1.6100604" version="7" timestamp="2018-04-09T20:03:57Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="local_ref" v="N"/>
+    <tag k="name" v="West Jesmond"/>
+    <tag k="naptan:AtcoCode" v="41000009MS05"/>
+    <tag k="naptan:Bearing" v="N"/>
+    <tag k="naptan:CommonName" v="WEST JESMOND"/>
+    <tag k="naptan:Indicator" v="N"/>
+    <tag k="naptan:Landmark" v="BRENTWOOD AVENUE"/>
+    <tag k="naptan:NaptanCode" v="twrapmdp"/>
+    <tag k="naptan:PlusbusZoneRef" v="NWCSTLE"/>
+    <tag k="naptan:Street" v="BRENTWOOD AVENUE"/>
+    <tag k="naptan:verified" v="no"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="source" v="naptan_import"/>
+  </node>
+  <node id="502599466" lat="54.9797273" lon="-1.4939433" version="4" timestamp="2018-04-09T20:03:57Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Jarrow"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="502600204" lat="55.0169188" lon="-1.4287495" version="5" timestamp="2018-04-09T20:03:58Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="local_ref" v="S"/>
+    <tag k="name" v="Tynemouth"/>
+    <tag k="naptan:AtcoCode" v="4100041MS01A"/>
+    <tag k="naptan:Bearing" v="S"/>
+    <tag k="naptan:CommonName" v="TYNEMOUTH"/>
+    <tag k="naptan:Indicator" v="S"/>
+    <tag k="naptan:Landmark" v="TYNEMOUTH METRO STATION"/>
+    <tag k="naptan:NaptanCode" v="twrgmadt"/>
+    <tag k="naptan:Street" v="STATION TERRACE"/>
+    <tag k="naptan:verified" v="no"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="source" v="naptan_import"/>
+  </node>
+  <node id="717554302" lat="54.9525561" lon="-1.5433961" version="4" timestamp="2018-04-09T20:03:58Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Pelaw"/>
+    <tag k="naptan:AtcoCode" v="4100015MS05A"/>
+    <tag k="naptan:NaptanCode" v="twrdjgjp"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1308288538" lat="54.9853825" lon="-1.5591713" version="5" timestamp="2018-04-09T20:03:58Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Walkergate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1308318255" lat="55.0397775" lon="-1.4424795" version="5" timestamp="2018-04-09T20:03:58Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Whitley Bay"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1457848021" lat="54.9527486" lon="-1.5418499" version="4" timestamp="2018-04-09T20:03:58Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Pelaw"/>
+    <tag k="naptan:AtcoCode" v="41000015MS05"/>
+    <tag k="naptan:NaptanCode" v="twrdjgjm"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1457877906" lat="54.9870347" lon="-1.4320468" version="5" timestamp="2018-04-09T20:03:59Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Chichester"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1457877915" lat="54.9761145" lon="-1.4416805" version="4" timestamp="2018-06-08T14:40:04Z" changeset="59669493" uid="115894" user="DaveF">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Tyne Dock"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1457878038" lat="54.9748065" lon="-1.5219872" version="3" timestamp="2018-04-09T20:03:59Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Hebburn"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1458167723" lat="54.9617336" lon="-1.6030322" version="5" timestamp="2018-04-09T20:03:59Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Gateshead"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1458168114" lat="54.9575123" lon="-1.5876427" version="3" timestamp="2018-04-09T20:03:59Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Gateshead Stadium"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1460019872" lat="54.9574214" lon="-1.4857356" version="2" timestamp="2015-06-03T18:46:23Z" changeset="31700165" uid="719729" user="Rydium"/>
+  <node id="1460019906" lat="54.9574897" lon="-1.4857548" version="3" timestamp="2015-06-03T18:46:23Z" changeset="31700165" uid="719729" user="Rydium"/>
+  <node id="1460019939" lat="54.9575858" lon="-1.4846347" version="3" timestamp="2015-06-03T18:46:23Z" changeset="31700165" uid="719729" user="Rydium"/>
+  <node id="1755158235" lat="54.9833358" lon="-1.6054750" version="3" timestamp="2018-04-09T20:03:59Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Jesmond"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1755186062" lat="54.9786329" lon="-1.6133073" version="5" timestamp="2018-04-09T20:03:59Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Haymarket"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1755186179" lat="54.9778551" lon="-1.6135728" version="3" timestamp="2018-04-09T20:03:59Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Haymarket"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1757755325" lat="55.0060734" lon="-1.6081930" version="4" timestamp="2018-04-09T20:04:00Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="South Gosforth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1757755413" lat="55.0001164" lon="-1.6108458" version="5" timestamp="2018-04-09T20:04:00Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Ilford Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="1819791492" lat="54.9575050" lon="-1.4852346" version="11" timestamp="2018-04-16T20:21:58Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="Fellgate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5442459"/>
+  </node>
+  <node id="2022998281" lat="55.0136688" lon="-1.6435172" version="6" timestamp="2018-04-09T20:04:00Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Fawdon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2022998311" lat="55.0138867" lon="-1.6776281" version="4" timestamp="2018-04-09T19:52:23Z" changeset="57950948" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Bank Foot"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2022998430" lat="55.0143108" lon="-1.6356337" version="5" timestamp="2018-04-09T20:04:00Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Wansbeck Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2147015001" lat="54.9575175" lon="-1.4846166" version="3" timestamp="2016-08-18T21:27:44Z" changeset="41544605" uid="719729" user="Rydium"/>
+  <node id="2147015127" lat="54.9574434" lon="-1.4854801" version="2" timestamp="2016-08-18T21:27:44Z" changeset="41544605" uid="719729" user="Rydium"/>
+  <node id="2266119242" lat="54.9960100" lon="-1.4935121" version="4" timestamp="2018-04-09T20:04:00Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Howdon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2467844221" lat="54.9738238" lon="-1.6036697" version="5" timestamp="2018-04-09T20:04:00Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Manors"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="2467844390" lat="54.9742004" lon="-1.6134241" version="6" timestamp="2018-06-02T14:32:03Z" changeset="59486987" uid="3149234" user="lakedistrict">
+    <tag k="level" v="-2"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Monument"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2474134427" lat="54.9852960" lon="-1.5598953" version="3" timestamp="2018-04-09T20:04:00Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Walkergate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148561" lat="54.9464968" lon="-1.4205615" version="3" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="East Boldon"/>
+    <tag k="naptan:AtcoCode" v="9100EBOLDON"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148562" lat="54.9066951" lon="-1.4013630" version="5" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Millfield"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148563" lat="54.9127017" lon="-1.4183177" version="5" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Pallion"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148564" lat="54.9023558" lon="-1.3843628" version="3" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Park Lane"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148565" lat="54.9297265" lon="-1.3866121" version="3" timestamp="2018-04-09T20:10:16Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Seaburn"/>
+    <tag k="naptan:AtcoCode" v="9100SEABURN"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148566" lat="54.9114262" lon="-1.3838527" version="4" timestamp="2018-04-09T20:10:17Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="St Peter's"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148567" lat="54.9183629" lon="-1.3829209" version="4" timestamp="2018-04-09T20:10:17Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Stadium of Light"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2535148569" lat="54.9028342" lon="-1.3925830" version="5" timestamp="2018-04-09T20:10:17Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="University"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2549403062" lat="55.0135535" lon="-1.6447777" version="5" timestamp="2018-04-09T20:04:01Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Fawdon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2549403066" lat="54.9530459" lon="-1.5711083" version="3" timestamp="2018-04-09T20:04:01Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Felling"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2549403073" lat="54.9741773" lon="-1.6150185" version="5" timestamp="2018-06-02T14:32:03Z" changeset="59486987" uid="3149234" user="lakedistrict">
+    <tag k="level" v="-2"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Monument"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2550014541" lat="55.0139745" lon="-1.5674695" version="3" timestamp="2018-04-09T20:04:01Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Benton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2550014544" lat="55.0103135" lon="-1.5781133" version="3" timestamp="2018-04-09T20:04:01Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Four Lane Ends"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2550014547" lat="55.0088860" lon="-1.5911064" version="3" timestamp="2018-04-09T20:04:01Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Longbenton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2550014550" lat="55.0333626" lon="-1.5194085" version="3" timestamp="2018-04-09T20:04:01Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Northumberland Park"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2550014553" lat="55.0237588" lon="-1.5410842" version="3" timestamp="2018-04-09T20:04:01Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Palmersville"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830421" lat="55.0351528" lon="-1.4364858" version="3" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Cullercoats"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2551830422" lat="54.9923529" lon="-1.5155392" version="3" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Hadrian Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830423" lat="55.0016455" lon="-1.4653918" version="3" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Meadow Well"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="old_name" v="Smith's Park"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830424" lat="55.0425309" lon="-1.4593045" version="3" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Monkseaton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830425" lat="55.0083570" lon="-1.4486046" version="3" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="North Shields"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830426" lat="54.9996211" lon="-1.4744436" version="3" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Percy Main"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830427" lat="55.0369186" lon="-1.5058638" version="3" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Shiremoor"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830428" lat="55.0176342" lon="-1.4291135" version="4" timestamp="2018-04-09T20:04:02Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="local_ref" v="N"/>
+    <tag k="name" v="Tynemouth"/>
+    <tag k="naptan:AtcoCode" v="41000041MS01"/>
+    <tag k="naptan:Bearing" v="N"/>
+    <tag k="naptan:CommonName" v="TYNEMOUTH"/>
+    <tag k="naptan:Indicator" v="N"/>
+    <tag k="naptan:Landmark" v="TYNEMOUTH METRO STATION"/>
+    <tag k="naptan:NaptanCode" v="twrgmadp"/>
+    <tag k="naptan:Street" v="STATION MEWS"/>
+    <tag k="naptan:verified" v="no"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="source" v="naptan_import"/>
+  </node>
+  <node id="2551830429" lat="54.9896779" lon="-1.5323205" version="3" timestamp="2018-04-09T20:04:03Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Wallsend"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830430" lat="55.0403871" lon="-1.4763960" version="3" timestamp="2018-04-09T20:04:03Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="West Monkseaton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="2551830762" lat="55.0399002" lon="-1.4435188" version="3" timestamp="2018-04-09T20:04:03Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Whitley Bay"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="3055853082" lat="54.9515768" lon="-1.5557173" version="4" timestamp="2018-04-09T20:04:03Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="layer" v="-1"/>
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Heworth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="3066876568" lat="54.9574537" lon="-1.4856753" version="3" timestamp="2018-04-09T20:10:17Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Fellgate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="3066876569" lat="54.9575572" lon="-1.4848229" version="3" timestamp="2018-04-09T20:10:17Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Fellgate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="3569892894" lat="54.9574237" lon="-1.4857094" version="1" timestamp="2015-06-03T18:46:12Z" changeset="31700165" uid="719729" user="Rydium"/>
+  <node id="3569892896" lat="54.9574915" lon="-1.4857335" version="1" timestamp="2015-06-03T18:46:13Z" changeset="31700165" uid="719729" user="Rydium"/>
+  <node id="3814734562" lat="54.9739724" lon="-1.6047872" version="9" timestamp="2018-06-23T21:09:37Z" changeset="60108979" uid="3149234" user="lakedistrict">
+    <tag k="name" v="Manors"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6751440"/>
+    <tag k="wikipedia" v="en:Manors Metro station"/>
+  </node>
+  <node id="3814734849" lat="55.0136257" lon="-1.6440091" version="5" timestamp="2018-04-15T11:41:41Z" changeset="58108176" uid="493192" user="Santi2222">
+    <tag k="name" v="Fawdon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wikidata" v="Q5438738"/>
+  </node>
+  <node id="3814734850" lat="55.0142915" lon="-1.6356886" version="7" timestamp="2018-08-26T14:05:49Z" changeset="62007713" uid="8719994" user="Spoonylife">
+    <tag k="name" v="Wansbeck Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7968068"/>
+  </node>
+  <node id="4342797158" lat="54.9865512" lon="-1.4318936" version="1" timestamp="2016-08-09T12:56:43Z" changeset="41344942" uid="4015714" user="SkaBook"/>
+  <node id="4342797161" lat="54.9866103" lon="-1.4318898" version="1" timestamp="2016-08-09T12:56:43Z" changeset="41344942" uid="4015714" user="SkaBook"/>
+  <node id="4342797162" lat="54.9863644" lon="-1.4319080" version="1" timestamp="2016-08-09T12:56:43Z" changeset="41344942" uid="4015714" user="SkaBook"/>
+  <node id="4342797163" lat="54.9863699" lon="-1.4322164" version="1" timestamp="2016-08-09T12:56:43Z" changeset="41344942" uid="4015714" user="SkaBook"/>
+  <node id="4342797164" lat="54.9866156" lon="-1.4321917" version="1" timestamp="2016-08-09T12:56:43Z" changeset="41344942" uid="4015714" user="SkaBook"/>
+  <node id="4347027360" lat="54.9982400" lon="-1.4334877" version="3" timestamp="2018-06-08T14:53:50Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="4347027365" lat="54.9983824" lon="-1.4335829" version="3" timestamp="2018-06-08T14:53:50Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="4347050594" lat="54.9984374" lon="-1.4333327" version="3" timestamp="2018-06-08T14:53:50Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="4347050595" lat="54.9981786" lon="-1.4331597" version="3" timestamp="2018-06-08T14:53:50Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="4492377623" lat="54.9829136" lon="-1.5720557" version="4" timestamp="2018-04-17T13:34:31Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Chillingham Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wikidata" v="Q5099070"/>
+  </node>
+  <node id="4492377624" lat="54.9830576" lon="-1.5716102" version="3" timestamp="2018-04-09T20:04:03Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Chillingham Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4492377625" lat="54.9531464" lon="-1.5717710" version="5" timestamp="2018-04-15T20:39:02Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Felling"/>
+    <tag k="name:lt" v="Felingas"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377626" lat="54.9576691" lon="-1.5881587" version="5" timestamp="2018-04-15T20:39:02Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Gateshead Stadium"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377627" lat="54.9775027" lon="-1.6139281" version="6" timestamp="2018-04-15T20:39:02Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Haymarket"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377628" lat="54.9515301" lon="-1.5560285" version="4" timestamp="2018-04-15T20:39:03Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Heworth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377630" lat="55.0000112" lon="-1.6108627" version="5" timestamp="2018-04-15T20:39:03Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="internet_access" v="no"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Ilford Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377631" lat="54.9828211" lon="-1.6056954" version="6" timestamp="2018-04-15T20:39:03Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Jesmond"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4492377632" lat="54.9064665" lon="-1.4010132" version="5" timestamp="2018-04-16T20:21:58Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="Millfield"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377633" lat="54.9740809" lon="-1.6133947" version="6" timestamp="2018-04-15T20:39:03Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Monument"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="platforms" v="4"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377634" lat="54.9693665" lon="-1.6167186" version="7" timestamp="2018-06-18T22:46:43Z" changeset="59959512" uid="3149234" user="lakedistrict">
+    <tag k="loc_name" v="Central Station"/>
+    <tag k="name" v="Central Station"/>
+    <tag k="naptan:AtcoCode" v="9400ZZTWCST"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wikipedia:en" v="Central Station Metro station"/>
+  </node>
+  <node id="4492377636" lat="54.9127413" lon="-1.4178547" version="5" timestamp="2018-04-16T20:21:58Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="Pallion"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377638" lat="55.0119539" lon="-1.6216284" version="4" timestamp="2018-04-15T20:39:03Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Regent Centre"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377639" lat="55.0119342" lon="-1.6213538" version="3" timestamp="2018-04-09T20:04:03Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Regent Centre"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4492377640" lat="55.0057849" lon="-1.6083021" version="5" timestamp="2018-04-15T20:39:03Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="South Gosforth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wikidata" v="Q7567374"/>
+  </node>
+  <node id="4492377641" lat="54.9042608" lon="-1.4477521" version="6" timestamp="2018-05-31T00:22:37Z" changeset="59413080" uid="3432400" user="GinaroZ">
+    <tag k="name" v="South Hylton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wikidata" v="Q7567520"/>
+    <tag k="wikipedia" v="en:South Hylton Metro station"/>
+  </node>
+  <node id="4492377642" lat="54.9110683" lon="-1.3837588" version="6" timestamp="2018-04-16T20:21:59Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="internet_access" v="no"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="St Peter's"/>
+    <tag k="naptan:AtcoCode" v="9100SNDRMNK"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377643" lat="54.9181372" lon="-1.3829516" version="5" timestamp="2018-04-16T20:21:59Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="Stadium of Light"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4492377647" lat="54.9934350" lon="-1.6098034" version="5" timestamp="2018-04-15T11:41:43Z" changeset="58108176" uid="493192" user="Santi2222">
+    <tag k="name" v="West Jesmond"/>
+    <tag k="naptan:PlusbusZoneRef" v="NWCSTLE"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wikidata" v="Q7985584"/>
+    <tag k="wikipedia" v="en:West Jesmond Metro station"/>
+  </node>
+  <node id="4523747621" lat="54.9698789" lon="-1.6167262" version="4" timestamp="2018-06-18T22:46:43Z" changeset="59959512" uid="3149234" user="lakedistrict">
+    <tag k="light_rail" v="yes"/>
+    <tag k="local_ref" v="2"/>
+    <tag k="name" v="Central Station"/>
+    <tag k="naptan:AtcoCode" v="9400ZZTWCST2"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523814486" lat="54.9742553" lon="-1.6215697" version="2" timestamp="2018-04-09T20:04:04Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="St James"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523832290" lat="54.9526638" lon="-1.5420510" version="6" timestamp="2018-08-28T09:58:54Z" changeset="62063097" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Pelaw"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4523834555" lat="54.9532346" lon="-1.5723817" version="2" timestamp="2018-04-09T20:04:04Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Felling"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523836161" lat="54.9617219" lon="-1.6044065" version="4" timestamp="2018-04-15T20:39:04Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="Gateshead"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523848873" lat="55.0139176" lon="-1.6780732" version="3" timestamp="2018-04-09T19:52:23Z" changeset="57950948" uid="493192" user="Santi2222">
+    <tag k="name" v="Bank Foot"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523848879" lat="55.0274744" lon="-1.7031596" version="2" timestamp="2018-04-09T19:52:23Z" changeset="57950948" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Callerton Parkway"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523848880" lat="55.0277062" lon="-1.7034114" version="3" timestamp="2018-04-09T19:52:23Z" changeset="57950948" uid="493192" user="Santi2222">
+    <tag k="name" v="Callerton Parkway"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523857055" lat="55.0356373" lon="-1.7110967" version="3" timestamp="2018-04-09T19:52:23Z" changeset="57950948" uid="493192" user="Santi2222">
+    <tag k="name" v="Airport"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523974774" lat="55.0139029" lon="-1.5676297" version="4" timestamp="2018-04-17T13:34:31Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Benton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523978182" lat="54.9463450" lon="-1.4201545" version="5" timestamp="2018-04-16T20:21:59Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="internet_access" v="no"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="East Boldon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523978553" lat="55.0350035" lon="-1.4363642" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Cullercoats"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523982246" lat="55.0101640" lon="-1.5785049" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Four Lane Ends"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523983415" lat="54.9741759" lon="-1.4653038" version="2" timestamp="2018-04-09T20:04:04Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Bede"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523983416" lat="54.9743600" lon="-1.4659095" version="2" timestamp="2018-04-09T20:04:04Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Bede"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523983417" lat="54.9742849" lon="-1.4656764" version="4" timestamp="2018-04-17T13:39:26Z" changeset="58168431" uid="493192" user="Santi2222">
+    <tag k="internet_access" v="no"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Bede"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523985537" lat="54.9716309" lon="-1.4551207" version="2" timestamp="2018-04-09T20:04:04Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Simonside"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523987433" lat="54.9795929" lon="-1.4935920" version="3" timestamp="2018-04-17T13:39:26Z" changeset="58168431" uid="493192" user="Santi2222">
+    <tag k="name" v="Jarrow"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523988187" lat="54.9752922" lon="-1.5212236" version="3" timestamp="2018-04-17T13:39:26Z" changeset="58168431" uid="493192" user="Santi2222">
+    <tag k="name" v="Hebburn"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4523999955" lat="54.9595646" lon="-1.4602300" version="2" timestamp="2018-04-09T20:10:17Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Brockley Whins"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4523999956" lat="54.9595193" lon="-1.4606840" version="5" timestamp="2018-04-16T20:21:59Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="internet_access" v="no"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Brockley Whins"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524000784" lat="54.9295618" lon="-1.3865039" version="4" timestamp="2018-04-16T20:21:59Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="Seaburn"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524010197" lat="54.9022493" lon="-1.3848403" version="2" timestamp="2018-04-09T20:10:17Z" changeset="57951408" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Park Lane"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4524012054" lat="54.9027916" lon="-1.3920960" version="4" timestamp="2018-04-16T20:21:59Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="University"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524022191" lat="54.9743470" lon="-1.6210905" version="3" timestamp="2018-04-15T20:39:04Z" changeset="58119775" uid="493192" user="Santi2222">
+    <tag k="name" v="St James"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524023949" lat="54.9853512" lon="-1.5594732" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Walkergate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524026886" lat="54.9759592" lon="-1.5809748" version="2" timestamp="2018-04-09T20:04:04Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Byker"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4524026887" lat="54.9760388" lon="-1.5803440" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Byker"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524041704" lat="54.9895984" lon="-1.5327361" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Wallsend"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524045380" lat="54.9922694" lon="-1.5159676" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Hadrian Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4524046458" lat="54.9959066" lon="-1.4941598" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Howdon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524047091" lat="54.9995678" lon="-1.4746255" version="3" timestamp="2018-04-17T13:34:32Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Percy Main"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524048559" lat="55.0015620" lon="-1.4656759" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Meadow Well"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="old_name" v="Smith's Park"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524052984" lat="55.0081341" lon="-1.4489689" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="North Shields"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524054950" lat="55.0173366" lon="-1.4289507" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Tynemouth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524056805" lat="55.0398304" lon="-1.4429369" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Whitley Bay"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524059789" lat="55.0405209" lon="-1.4760521" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="West Monkseaton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524060159" lat="55.0369588" lon="-1.5054224" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Shiremoor"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524061408" lat="55.0331107" lon="-1.5198212" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Northumberland Park"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524066897" lat="55.0089239" lon="-1.5916006" version="3" timestamp="2018-04-17T13:39:26Z" changeset="58168431" uid="493192" user="Santi2222">
+    <tag k="name" v="Longbenton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524643130" lat="55.0235871" lon="-1.5414495" version="3" timestamp="2018-04-17T13:34:33Z" changeset="58168266" uid="493192" user="Santi2222">
+    <tag k="name" v="Palmersville"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4524808330" lat="54.9986750" lon="-1.4337131" version="2" timestamp="2018-04-09T20:04:05Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="South Shields"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4524822529" lat="55.0143587" lon="-1.6670241" version="2" timestamp="2018-04-09T20:04:05Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="Kingston Park"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4524822530" lat="55.0144117" lon="-1.6661176" version="4" timestamp="2018-04-16T20:21:59Z" changeset="58149908" uid="493192" user="Santi2222">
+    <tag k="name" v="Kingston Park"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </node>
+  <node id="4536389841" lat="54.9744363" lon="-1.6206278" version="2" timestamp="2018-04-09T20:04:05Z" changeset="57951272" uid="493192" user="Santi2222">
+    <tag k="light_rail" v="yes"/>
+    <tag k="name" v="St James"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+  </node>
+  <node id="4630732572" lat="54.9716682" lon="-1.4549078" version="1" timestamp="2017-01-24T22:25:29Z" changeset="45452525" uid="5177412" user="Charkyem"/>
+  <node id="4630732573" lat="54.9714065" lon="-1.4547369" version="1" timestamp="2017-01-24T22:25:29Z" changeset="45452525" uid="5177412" user="Charkyem"/>
+  <node id="4630732580" lat="54.9981236" lon="-1.4334099" version="2" timestamp="2018-06-08T14:53:50Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="4630881309" lat="54.9762243" lon="-1.4418389" version="2" timestamp="2018-06-08T14:40:04Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="4630881310" lat="54.9761766" lon="-1.4417077" version="3" timestamp="2018-06-08T14:40:04Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="5675652273" lat="54.9717440" lon="-1.4561215" version="1" timestamp="2018-06-08T14:29:25Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="5675652274" lat="54.9719827" lon="-1.4561591" version="1" timestamp="2018-06-08T14:29:25Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="5675652275" lat="54.9718749" lon="-1.4560115" version="1" timestamp="2018-06-08T14:29:25Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="5675652276" lat="54.9719211" lon="-1.4561912" version="1" timestamp="2018-06-08T14:29:25Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="5675666982" lat="54.9761157" lon="-1.4417748" version="2" timestamp="2018-06-08T14:40:04Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="5675666983" lat="54.9761634" lon="-1.4419060" version="2" timestamp="2018-06-08T14:40:04Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <node id="5675713443" lat="54.9984112" lon="-1.4334518" version="1" timestamp="2018-06-08T14:53:50Z" changeset="59669493" uid="115894" user="DaveF"/>
+  <way id="132716714" version="6" timestamp="2018-04-15T11:41:45Z" changeset="58108176" uid="493192" user="Santi2222">
+    <nd ref="2147015001"/>
+    <nd ref="2147015127"/>
+    <nd ref="3569892894"/>
+    <nd ref="1460019872"/>
+    <tag k="name" v="Fellgate (to Airport)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </way>
+  <way id="132716748" version="4" timestamp="2018-04-15T11:41:45Z" changeset="58108176" uid="493192" user="Santi2222">
+    <nd ref="1460019939"/>
+    <nd ref="3569892896"/>
+    <nd ref="1460019906"/>
+    <tag k="name" v="Fellgate (to South Hylton)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </way>
+  <way id="436393557" version="6" timestamp="2018-06-08T14:29:26Z" changeset="59669493" uid="115894" user="DaveF">
+    <nd ref="4342797161"/>
+    <nd ref="4342797158"/>
+    <nd ref="4342797162"/>
+    <nd ref="4342797163"/>
+    <nd ref="4342797164"/>
+    <nd ref="4342797161"/>
+    <tag k="building" v="train_station"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Chichester"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </way>
+  <way id="468548262" version="5" timestamp="2018-06-08T14:29:25Z" changeset="59669493" uid="115894" user="DaveF">
+    <nd ref="4630732572"/>
+    <nd ref="4630732573"/>
+    <nd ref="5675652273"/>
+    <nd ref="5675652275"/>
+    <nd ref="5675652276"/>
+    <nd ref="5675652274"/>
+    <nd ref="4630732572"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Simonside"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="468548263" version="6" timestamp="2018-06-08T14:34:54Z" changeset="59669493" uid="115894" user="DaveF">
+    <nd ref="5675666982"/>
+    <nd ref="5675666983"/>
+    <nd ref="4630881309"/>
+    <nd ref="4630881310"/>
+    <nd ref="5675666982"/>
+    <tag k="building" v="train_station"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Tyne Dock"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+  </way>
+  <way id="468548264" version="6" timestamp="2018-06-08T14:54:07Z" changeset="59669493" uid="115894" user="DaveF">
+    <nd ref="4347027365"/>
+    <nd ref="5675713443"/>
+    <nd ref="4347050594"/>
+    <nd ref="4347050595"/>
+    <nd ref="4630732580"/>
+    <nd ref="4347027360"/>
+    <nd ref="4347027365"/>
+    <tag k="building" v="train_station"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="South Shields"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="light_rail"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <relation id="172864" version="122" timestamp="2018-04-16T20:50:36Z" changeset="58151017" uid="493192" user="Santi2222">
+    <member type="relation" ref="8215233" role=""/>
+    <member type="relation" ref="8215232" role=""/>
+    <tag k="colour" v="#d39f06"/>
+    <tag k="interval" v="12"/>
+    <tag k="interval:evening" v="15"/>
+    <tag k="interval:sunday" v="15"/>
+    <tag k="name" v="Yellow Line"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Yellow"/>
+    <tag k="route_master" v="light_rail"/>
+    <tag k="type" v="route_master"/>
+  </relation>
+  <relation id="172927" version="71" timestamp="2018-04-21T15:46:09Z" changeset="58293135" uid="341391" user="MrBoyt">
+    <member type="node" ref="4523857054" role="stop"/>
+    <member type="way" ref="129437457" role="platform"/>
+    <member type="node" ref="4523848879" role="stop"/>
+    <member type="way" ref="95325344" role="platform"/>
+    <member type="node" ref="2022998311" role="stop"/>
+    <member type="way" ref="578219306" role="platform"/>
+    <member type="node" ref="4524822529" role="stop"/>
+    <member type="way" ref="31504588" role="platform"/>
+    <member type="node" ref="2549403062" role="stop"/>
+    <member type="way" ref="248095224" role="platform"/>
+    <member type="node" ref="2022998430" role="stop"/>
+    <member type="way" ref="248095237" role="platform"/>
+    <member type="node" ref="4492377639" role="stop"/>
+    <member type="node" ref="29064297" role="stop"/>
+    <member type="way" ref="164116950" role="platform"/>
+    <member type="node" ref="29081582" role="stop"/>
+    <member type="way" ref="248095226" role="platform"/>
+    <member type="node" ref="502598580" role="stop"/>
+    <member type="way" ref="132704549" role="platform"/>
+    <member type="node" ref="206103761" role="stop"/>
+    <member type="node" ref="1755186179" role="stop"/>
+    <member type="node" ref="4523747614" role="stop"/>
+    <member type="way" ref="48837042" role="platform"/>
+    <member type="node" ref="317395907" role="stop"/>
+    <member type="node" ref="1458167723" role="stop"/>
+    <member type="node" ref="1458168114" role="stop"/>
+    <member type="way" ref="132577259" role="platform"/>
+    <member type="node" ref="2549403066" role="stop"/>
+    <member type="way" ref="132577260" role="platform"/>
+    <member type="node" ref="3055853082" role="stop"/>
+    <member type="node" ref="1457848021" role="stop"/>
+    <member type="way" ref="132577261" role="platform"/>
+    <member type="node" ref="3066876569" role="stop"/>
+    <member type="way" ref="132716748" role="platform"/>
+    <member type="node" ref="4523999955" role="stop"/>
+    <member type="way" ref="132716749" role="platform"/>
+    <member type="node" ref="35965147" role="stop"/>
+    <member type="way" ref="132716753" role="platform"/>
+    <member type="node" ref="206143925" role="stop"/>
+    <member type="way" ref="246478774" role="platform"/>
+    <member type="node" ref="59972884" role="stop"/>
+    <member type="way" ref="246478779" role="platform"/>
+    <member type="node" ref="59972882" role="stop"/>
+    <member type="node" ref="208521110" role="stop"/>
+    <member type="way" ref="569691150" role="platform"/>
+    <member type="node" ref="4524010197" role="stop"/>
+    <member type="node" ref="2535148569" role="stop"/>
+    <member type="way" ref="246478777" role="platform"/>
+    <member type="node" ref="2535148562" role="stop"/>
+    <member type="way" ref="246478772" role="platform"/>
+    <member type="node" ref="2535148563" role="stop"/>
+    <member type="way" ref="248005520" role="platform"/>
+    <member type="node" ref="208521106" role="stop"/>
+    <member type="way" ref="246478773" role="platform"/>
+    <member type="way" ref="129437437" role=""/>
+    <member type="way" ref="572883712" role=""/>
+    <member type="way" ref="572883710" role=""/>
+    <member type="way" ref="572883708" role=""/>
+    <member type="way" ref="191714273" role=""/>
+    <member type="way" ref="191714269" role=""/>
+    <member type="way" ref="191714259" role=""/>
+    <member type="way" ref="191714272" role=""/>
+    <member type="way" ref="424530497" role=""/>
+    <member type="way" ref="424530498" role=""/>
+    <member type="way" ref="191714260" role=""/>
+    <member type="way" ref="191714266" role=""/>
+    <member type="way" ref="367787161" role=""/>
+    <member type="way" ref="367787162" role=""/>
+    <member type="way" ref="248095125" role=""/>
+    <member type="way" ref="191714253" role=""/>
+    <member type="way" ref="191714252" role=""/>
+    <member type="way" ref="37690989" role=""/>
+    <member type="way" ref="2541791" role=""/>
+    <member type="way" ref="248095118" role=""/>
+    <member type="way" ref="248095138" role=""/>
+    <member type="way" ref="28872794" role=""/>
+    <member type="way" ref="132577148" role=""/>
+    <member type="way" ref="132577155" role=""/>
+    <member type="way" ref="560206597" role=""/>
+    <member type="way" ref="132577139" role=""/>
+    <member type="way" ref="132544275" role=""/>
+    <member type="way" ref="132577146" role=""/>
+    <member type="way" ref="132577141" role=""/>
+    <member type="way" ref="133794794" role=""/>
+    <member type="way" ref="133794814" role=""/>
+    <member type="way" ref="132577142" role=""/>
+    <member type="way" ref="132577144" role=""/>
+    <member type="way" ref="132577143" role=""/>
+    <member type="way" ref="132577140" role=""/>
+    <member type="way" ref="132544273" role=""/>
+    <member type="way" ref="132544270" role=""/>
+    <member type="way" ref="239591047" role=""/>
+    <member type="way" ref="27283955" role=""/>
+    <member type="way" ref="456117010" role=""/>
+    <member type="way" ref="248095115" role=""/>
+    <member type="way" ref="21069438" role=""/>
+    <member type="way" ref="132716716" role=""/>
+    <member type="way" ref="132716715" role=""/>
+    <member type="way" ref="132716766" role=""/>
+    <member type="way" ref="132716724" role=""/>
+    <member type="way" ref="132716741" role=""/>
+    <member type="way" ref="132716730" role=""/>
+    <member type="way" ref="132716744" role=""/>
+    <member type="way" ref="132716571" role=""/>
+    <member type="way" ref="248095110" role=""/>
+    <member type="way" ref="34324964" role=""/>
+    <member type="way" ref="31286983" role=""/>
+    <member type="way" ref="19884880" role=""/>
+    <member type="way" ref="573721830" role=""/>
+    <member type="way" ref="248095212" role=""/>
+    <member type="way" ref="248095102" role=""/>
+    <member type="way" ref="248095103" role=""/>
+    <member type="way" ref="19881220" role=""/>
+    <member type="way" ref="57851541" role=""/>
+    <member type="way" ref="190647295" role=""/>
+    <member type="way" ref="572876437" role=""/>
+    <member type="way" ref="572876436" role=""/>
+    <member type="way" ref="31286960" role=""/>
+    <member type="way" ref="246478768" role=""/>
+    <member type="way" ref="246478761" role=""/>
+    <member type="way" ref="246478760" role=""/>
+    <member type="way" ref="246478762" role=""/>
+    <member type="way" ref="246478765" role=""/>
+    <member type="way" ref="246478763" role=""/>
+    <tag k="colour" v="#009933"/>
+    <tag k="from" v="Airport"/>
+    <tag k="interval" v="12"/>
+    <tag k="interval:evening" v="15"/>
+    <tag k="interval:sunday" v="15"/>
+    <tag k="name" v="Green Line (Airport → South Hylton)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Green"/>
+    <tag k="route" v="light_rail"/>
+    <tag k="to" v="South Hylton"/>
+    <tag k="type" v="route"/>
+    <tag k="wheelchair" v="yes"/>
+  </relation>
+  <relation id="2019161" version="8" timestamp="2018-04-15T20:39:04Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="node" ref="502599446" role="stop"/>
+    <member type="node" ref="502598580" role="stop"/>
+    <member type="node" ref="4492377647" role="station"/>
+    <member type="way" ref="132704548" role="platform"/>
+    <member type="way" ref="477377542" role=""/>
+    <member type="way" ref="129891484" role=""/>
+    <member type="way" ref="477377543" role=""/>
+    <member type="way" ref="132704539" role=""/>
+    <member type="way" ref="132704520" role=""/>
+    <member type="way" ref="477377540" role=""/>
+    <member type="way" ref="132704543" role=""/>
+    <member type="way" ref="477377541" role=""/>
+    <member type="way" ref="132704549" role="platform"/>
+    <member type="way" ref="477377544" role=""/>
+    <member type="way" ref="366302850" role=""/>
+    <member type="way" ref="366302844" role=""/>
+    <member type="way" ref="366302845" role=""/>
+    <member type="way" ref="366302849" role=""/>
+    <member type="way" ref="477377539" role=""/>
+    <member type="way" ref="366302842" role=""/>
+    <member type="node" ref="5464912942" role="entrance"/>
+    <member type="node" ref="3702785539" role="entrance"/>
+    <member type="node" ref="5464912315" role=""/>
+    <member type="node" ref="5464912316" role=""/>
+    <member type="node" ref="5464912318" role=""/>
+    <member type="node" ref="5464912317" role=""/>
+    <member type="node" ref="5464912319" role=""/>
+    <member type="node" ref="5464912320" role=""/>
+    <member type="node" ref="5464912921" role=""/>
+    <member type="node" ref="5464912932" role=""/>
+    <member type="node" ref="5464912929" role=""/>
+    <member type="node" ref="5464912928" role=""/>
+    <member type="node" ref="5464912926" role=""/>
+    <member type="node" ref="5464912927" role=""/>
+    <member type="node" ref="5464912925" role=""/>
+    <member type="node" ref="5464912938" role=""/>
+    <member type="node" ref="5464912939" role=""/>
+    <member type="node" ref="5464912940" role=""/>
+    <member type="node" ref="5464912934" role=""/>
+    <member type="node" ref="5464912935" role=""/>
+    <member type="node" ref="5464912936" role=""/>
+    <member type="node" ref="5464912937" role=""/>
+    <member type="node" ref="5464912930" role=""/>
+    <member type="node" ref="5464912931" role=""/>
+    <member type="node" ref="5196673680" role=""/>
+    <member type="node" ref="3702785533" role=""/>
+    <member type="node" ref="5196673671" role=""/>
+    <tag k="name" v="West Jesmond"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="WJS"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8194664" version="1" timestamp="2018-04-09T19:52:22Z" changeset="57950948" uid="493192" user="Santi2222">
+    <member type="way" ref="578219305" role="platform"/>
+    <member type="node" ref="205176016" role="stop"/>
+    <member type="node" ref="4523848873" role=""/>
+    <member type="node" ref="2022998311" role="stop"/>
+    <member type="way" ref="578219306" role="platform"/>
+    <tag k="name" v="Bank Foot"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8194665" version="1" timestamp="2018-04-09T19:52:22Z" changeset="57950948" uid="493192" user="Santi2222">
+    <member type="node" ref="4523848879" role="stop"/>
+    <member type="node" ref="4523848880" role=""/>
+    <member type="node" ref="205176033" role="stop"/>
+    <member type="way" ref="95325358" role="platform"/>
+    <member type="way" ref="95325344" role="platform"/>
+    <tag k="name" v="Callerton Parkway"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8194666" version="1" timestamp="2018-04-09T19:52:22Z" changeset="57950948" uid="493192" user="Santi2222">
+    <member type="way" ref="129437457" role="platform"/>
+    <member type="way" ref="61164439" role="platform"/>
+    <member type="node" ref="205176045" role="stop"/>
+    <member type="node" ref="4523857055" role=""/>
+    <member type="node" ref="4523857054" role="stop"/>
+    <tag k="name" v="Airport"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8211155" version="1" timestamp="2018-04-15T11:41:40Z" changeset="58108176" uid="493192" user="Santi2222">
+    <member type="node" ref="2549403073" role="stop"/>
+    <member type="node" ref="2467844390" role="stop"/>
+    <member type="way" ref="48837616" role="platform"/>
+    <member type="way" ref="48837172" role="platform"/>
+    <member type="node" ref="2326873533" role=""/>
+    <member type="node" ref="215495881" role=""/>
+    <member type="node" ref="2326873539" role=""/>
+    <member type="node" ref="4492377633" role=""/>
+    <tag k="name" v="Monument (lower)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8211156" version="1" timestamp="2018-04-15T11:41:41Z" changeset="58108176" uid="493192" user="Santi2222">
+    <member type="node" ref="4523747614" role="stop"/>
+    <member type="node" ref="1755220888" role="stop"/>
+    <member type="way" ref="48837042" role="platform"/>
+    <member type="way" ref="48837454" role="platform"/>
+    <member type="node" ref="2326873533" role=""/>
+    <member type="node" ref="215495881" role=""/>
+    <member type="node" ref="2326873539" role=""/>
+    <member type="node" ref="4492377633" role=""/>
+    <tag k="name" v="Monument (upper)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212080" version="1" timestamp="2018-04-15T20:39:01Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="way" ref="248095228" role="platform"/>
+    <member type="node" ref="3814734850" role=""/>
+    <member type="node" ref="204903256" role="stop"/>
+    <member type="way" ref="248095234" role="platform"/>
+    <member type="node" ref="2022998430" role="stop"/>
+    <member type="way" ref="248095237" role="platform"/>
+    <tag k="name" v="Wansbeck Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212081" version="1" timestamp="2018-04-15T20:39:01Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="node" ref="4492377639" role="stop"/>
+    <member type="node" ref="4492377638" role=""/>
+    <member type="node" ref="164276853" role="stop"/>
+    <tag k="name" v="Regent Centre"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212082" version="1" timestamp="2018-04-15T20:39:01Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="node" ref="1757755325" role="stop"/>
+    <member type="way" ref="164116956" role="platform"/>
+    <member type="way" ref="164116950" role="platform"/>
+    <member type="node" ref="4492377640" role=""/>
+    <member type="node" ref="29064297" role="stop"/>
+    <tag k="name" v="South Gosforth"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212083" version="1" timestamp="2018-04-15T20:39:01Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="node" ref="29081582" role="stop"/>
+    <member type="way" ref="248095232" role="platform"/>
+    <member type="way" ref="248095226" role="platform"/>
+    <member type="node" ref="4492377630" role=""/>
+    <member type="node" ref="1757755413" role="stop"/>
+    <tag k="name" v="Ilford Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212084" version="2" timestamp="2018-04-16T20:23:20Z" changeset="58149967" uid="493192" user="Santi2222">
+    <member type="node" ref="5083857963" role=""/>
+    <member type="node" ref="5083857964" role=""/>
+    <member type="node" ref="206103761" role="stop"/>
+    <member type="node" ref="4492377631" role=""/>
+    <member type="node" ref="1755158235" role="stop"/>
+    <tag k="name" v="Jesmond"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212085" version="3" timestamp="2018-04-17T13:19:54Z" changeset="58167841" uid="493192" user="Santi2222">
+    <member type="node" ref="1459093329" role=""/>
+    <member type="node" ref="1459093325" role=""/>
+    <member type="node" ref="1459093372" role=""/>
+    <member type="node" ref="1755186179" role="stop"/>
+    <member type="node" ref="4492377627" role=""/>
+    <member type="node" ref="1755186062" role="stop"/>
+    <tag k="name" v="Haymarket"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212086" version="1" timestamp="2018-04-15T20:39:01Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="way" ref="132577259" role="platform"/>
+    <member type="node" ref="4492377626" role=""/>
+    <member type="node" ref="299498935" role="stop"/>
+    <member type="node" ref="1458168114" role="stop"/>
+    <tag k="name" v="Gateshead"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212087" version="1" timestamp="2018-04-15T20:39:01Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="node" ref="4492377625" role=""/>
+    <member type="node" ref="4523834555" role="stop"/>
+    <member type="way" ref="132577260" role="platform"/>
+    <member type="node" ref="2549403066" role="stop"/>
+    <tag k="name" v="Felling"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212088" version="1" timestamp="2018-04-15T20:39:01Z" changeset="58119775" uid="493192" user="Santi2222">
+    <member type="node" ref="4523832290" role=""/>
+    <member type="node" ref="1457848021" role="stop"/>
+    <member type="node" ref="717554302" role="stop"/>
+    <member type="way" ref="132577261" role="platform"/>
+    <tag k="name" v="Pelaw"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8212097" version="2" timestamp="2018-04-16T20:32:27Z" changeset="58150325" uid="493192" user="Santi2222">
+    <member type="relation" ref="172927" role=""/>
+    <member type="relation" ref="152157" role=""/>
+    <tag k="colour" v="#009933"/>
+    <tag k="interval" v="12"/>
+    <tag k="interval:evening" v="15"/>
+    <tag k="interval:sunday" v="15"/>
+    <tag k="name" v="Green Line"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Green"/>
+    <tag k="route_master" v="light_rail"/>
+    <tag k="type" v="route_master"/>
+    <tag k="wheelchair" v="yes"/>
+  </relation>
+  <relation id="8215111" version="1" timestamp="2018-04-16T20:18:37Z" changeset="58149783" uid="493192" user="Santi2222">
+    <member type="node" ref="59972882" role="stop"/>
+    <member type="node" ref="4492377642" role=""/>
+    <member type="node" ref="2535148566" role="stop"/>
+    <tag k="name" v="St Peter's"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215112" version="1" timestamp="2018-04-16T20:18:37Z" changeset="58149783" uid="493192" user="Santi2222">
+    <member type="node" ref="4492377643" role=""/>
+    <member type="node" ref="59972884" role="stop"/>
+    <member type="node" ref="2535148567" role="stop"/>
+    <member type="way" ref="246478771" role="platform"/>
+    <member type="way" ref="246478779" role="platform"/>
+    <tag k="name" v="Stadium of Light"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215113" version="1" timestamp="2018-04-16T20:18:38Z" changeset="58149783" uid="493192" user="Santi2222">
+    <member type="node" ref="4524000784" role=""/>
+    <member type="node" ref="2535148565" role="stop"/>
+    <member type="node" ref="206143925" role="stop"/>
+    <member type="way" ref="246478774" role="platform"/>
+    <member type="way" ref="246478776" role="platform"/>
+    <tag k="name" v="Seaburn"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215114" version="1" timestamp="2018-04-16T20:18:38Z" changeset="58149783" uid="493192" user="Santi2222">
+    <member type="way" ref="132716753" role="platform"/>
+    <member type="node" ref="4523978182" role=""/>
+    <member type="way" ref="132716721" role="platform"/>
+    <member type="node" ref="2535148561" role="stop"/>
+    <member type="node" ref="35965147" role="stop"/>
+    <tag k="name" v="East Boldon"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215115" version="1" timestamp="2018-04-16T20:18:38Z" changeset="58149783" uid="493192" user="Santi2222">
+    <member type="node" ref="4523999956" role=""/>
+    <member type="node" ref="4523999955" role="stop"/>
+    <member type="node" ref="35965137" role="stop"/>
+    <member type="way" ref="132716751" role="platform"/>
+    <member type="way" ref="132716749" role="platform"/>
+    <tag k="name" v="Brockley Whins"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215116" version="1" timestamp="2018-04-16T20:18:38Z" changeset="58149783" uid="493192" user="Santi2222">
+    <member type="node" ref="3066876568" role="stop"/>
+    <member type="way" ref="132716714" role="platform"/>
+    <member type="node" ref="1819791492" role=""/>
+    <member type="way" ref="132716748" role="platform"/>
+    <member type="node" ref="3066876569" role="stop"/>
+    <tag k="name" v="Fellgate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215117" version="2" timestamp="2018-04-17T13:19:54Z" changeset="58167841" uid="493192" user="Santi2222">
+    <member type="node" ref="4523836161" role=""/>
+    <member type="node" ref="1458167723" role="stop"/>
+    <member type="node" ref="208564843" role="stop"/>
+    <member type="node" ref="3097124232" role=""/>
+    <member type="node" ref="3097124234" role=""/>
+    <member type="node" ref="5299401225" role=""/>
+    <tag k="name" v="Gateshead"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215118" version="1" timestamp="2018-04-16T20:18:38Z" changeset="58149783" uid="493192" user="Santi2222">
+    <member type="way" ref="31504588" role="platform"/>
+    <member type="node" ref="4524822529" role="stop"/>
+    <member type="node" ref="4524822530" role=""/>
+    <member type="way" ref="31504584" role="platform"/>
+    <member type="node" ref="205175999" role="stop"/>
+    <tag k="name" v="Kingston Park"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215145" version="1" timestamp="2018-04-16T20:21:57Z" changeset="58149908" uid="493192" user="Santi2222">
+    <member type="way" ref="246478773" role="platform"/>
+    <member type="node" ref="4492377641" role=""/>
+    <member type="node" ref="208521106" role="stop"/>
+    <tag k="name" v="South Hylton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215146" version="1" timestamp="2018-04-16T20:21:57Z" changeset="58149908" uid="493192" user="Santi2222">
+    <member type="way" ref="248005520" role="platform"/>
+    <member type="way" ref="248005518" role="platform"/>
+    <member type="node" ref="2535148563" role="stop"/>
+    <member type="node" ref="4492377636" role=""/>
+    <member type="node" ref="208521107" role="stop"/>
+    <tag k="name" v="Pallion"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215147" version="1" timestamp="2018-04-16T20:21:58Z" changeset="58149908" uid="493192" user="Santi2222">
+    <member type="way" ref="246478772" role="platform"/>
+    <member type="node" ref="208521109" role="stop"/>
+    <member type="way" ref="246478770" role="platform"/>
+    <member type="node" ref="4492377632" role=""/>
+    <member type="node" ref="2535148562" role="stop"/>
+    <tag k="name" v="Millfield"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215148" version="1" timestamp="2018-04-16T20:21:58Z" changeset="58149908" uid="493192" user="Santi2222">
+    <member type="way" ref="246478775" role="platform"/>
+    <member type="way" ref="246478777" role="platform"/>
+    <member type="node" ref="2535148569" role="stop"/>
+    <member type="node" ref="4524012054" role=""/>
+    <member type="node" ref="208521086" role="stop"/>
+    <tag k="name" v="University"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215149" version="1" timestamp="2018-04-16T20:21:58Z" changeset="58149908" uid="493192" user="Santi2222">
+    <member type="node" ref="2535148564" role="stop"/>
+    <member type="node" ref="4524010197" role="stop"/>
+    <member type="node" ref="208521082" role=""/>
+    <tag k="name" v="Park Lane"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8215203" version="2" timestamp="2018-04-21T15:46:12Z" changeset="58293135" uid="341391" user="MrBoyt">
+    <member type="node" ref="208521106" role="stop"/>
+    <member type="way" ref="246478773" role="platform"/>
+    <member type="node" ref="208521107" role="stop"/>
+    <member type="way" ref="248005518" role="platform"/>
+    <member type="node" ref="208521109" role="stop"/>
+    <member type="way" ref="246478770" role="platform"/>
+    <member type="node" ref="208521086" role="stop"/>
+    <member type="way" ref="246478775" role="platform"/>
+    <member type="node" ref="2535148564" role="stop"/>
+    <member type="node" ref="5557595425" role="stop"/>
+    <member type="way" ref="569691153" role="platform"/>
+    <member type="node" ref="2535148566" role="stop"/>
+    <member type="node" ref="2535148567" role="stop"/>
+    <member type="way" ref="246478771" role="platform"/>
+    <member type="node" ref="2535148565" role="stop"/>
+    <member type="way" ref="246478776" role="platform"/>
+    <member type="node" ref="2535148561" role="stop"/>
+    <member type="way" ref="132716721" role="platform"/>
+    <member type="node" ref="35965137" role="stop"/>
+    <member type="way" ref="132716751" role="platform"/>
+    <member type="node" ref="3066876568" role="stop"/>
+    <member type="way" ref="132716714" role="platform"/>
+    <member type="node" ref="717554302" role="stop"/>
+    <member type="way" ref="132577261" role="platform"/>
+    <member type="node" ref="299498726" role="stop"/>
+    <member type="node" ref="4523834555" role="stop"/>
+    <member type="way" ref="132577260" role="platform"/>
+    <member type="node" ref="299498935" role="stop"/>
+    <member type="way" ref="132577259" role="platform"/>
+    <member type="node" ref="208564843" role="stop"/>
+    <member type="node" ref="4523747621" role="stop"/>
+    <member type="node" ref="1755220888" role="stop"/>
+    <member type="way" ref="48837454" role="platform"/>
+    <member type="node" ref="1755186062" role="stop"/>
+    <member type="node" ref="1755158235" role="stop"/>
+    <member type="node" ref="502599446" role="stop"/>
+    <member type="way" ref="132704548" role="platform"/>
+    <member type="node" ref="1757755413" role="stop"/>
+    <member type="way" ref="248095232" role="platform"/>
+    <member type="node" ref="1757755325" role="stop"/>
+    <member type="way" ref="164116956" role="platform"/>
+    <member type="node" ref="164276853" role="stop"/>
+    <member type="node" ref="204903256" role="stop"/>
+    <member type="way" ref="248095234" role="platform"/>
+    <member type="node" ref="2022998281" role="stop"/>
+    <member type="way" ref="248095230" role="platform"/>
+    <member type="node" ref="205175999" role="stop"/>
+    <member type="way" ref="31504584" role="platform"/>
+    <member type="node" ref="205176016" role="stop"/>
+    <member type="way" ref="578219305" role="platform"/>
+    <member type="node" ref="205176033" role="stop"/>
+    <member type="way" ref="95325358" role="platform"/>
+    <member type="node" ref="205176045" role="stop"/>
+    <member type="way" ref="61164439" role="platform"/>
+    <member type="way" ref="246478763" role=""/>
+    <member type="way" ref="188115938" role=""/>
+    <member type="way" ref="188115933" role=""/>
+    <member type="way" ref="186362332" role=""/>
+    <member type="way" ref="186362329" role=""/>
+    <member type="way" ref="186362152" role=""/>
+    <member type="way" ref="186362150" role=""/>
+    <member type="way" ref="190647298" role=""/>
+    <member type="way" ref="572876435" role=""/>
+    <member type="way" ref="572876438" role=""/>
+    <member type="way" ref="572876439" role=""/>
+    <member type="way" ref="246478764" role=""/>
+    <member type="way" ref="246478769" role=""/>
+    <member type="way" ref="246478744" role=""/>
+    <member type="way" ref="573721829" role=""/>
+    <member type="way" ref="248095100" role=""/>
+    <member type="way" ref="246478743" role=""/>
+    <member type="way" ref="246478741" role=""/>
+    <member type="way" ref="572876440" role=""/>
+    <member type="way" ref="572876441" role=""/>
+    <member type="way" ref="572876442" role=""/>
+    <member type="way" ref="132716573" role=""/>
+    <member type="way" ref="132716562" role=""/>
+    <member type="way" ref="132716565" role=""/>
+    <member type="way" ref="132716568" role=""/>
+    <member type="way" ref="132716575" role=""/>
+    <member type="way" ref="132716567" role=""/>
+    <member type="way" ref="132716569" role=""/>
+    <member type="way" ref="132716564" role=""/>
+    <member type="way" ref="37694951" role=""/>
+    <member type="way" ref="27283959" role=""/>
+    <member type="way" ref="132577137" role=""/>
+    <member type="way" ref="572883680" role=""/>
+    <member type="way" ref="32994110" role=""/>
+    <member type="way" ref="132577145" role=""/>
+    <member type="way" ref="132577147" role=""/>
+    <member type="way" ref="32994104" role=""/>
+    <member type="way" ref="572883681" role=""/>
+    <member type="way" ref="572883682" role=""/>
+    <member type="way" ref="572883683" role=""/>
+    <member type="way" ref="133794809" role=""/>
+    <member type="way" ref="133794782" role=""/>
+    <member type="way" ref="60205416" role=""/>
+    <member type="way" ref="60205426" role=""/>
+    <member type="way" ref="19883611" role=""/>
+    <member type="way" ref="572883684" role=""/>
+    <member type="way" ref="19882519" role=""/>
+    <member type="way" ref="560206598" role=""/>
+    <member type="way" ref="19882518" role=""/>
+    <member type="way" ref="163848764" role=""/>
+    <member type="way" ref="163844663" role=""/>
+    <member type="way" ref="572883685" role=""/>
+    <member type="way" ref="164116957" role=""/>
+    <member type="way" ref="191714251" role=""/>
+    <member type="way" ref="191714255" role=""/>
+    <member type="way" ref="191714271" role=""/>
+    <member type="way" ref="572883687" role=""/>
+    <member type="way" ref="572883688" role=""/>
+    <member type="way" ref="4599492" role=""/>
+    <member type="way" ref="367787163" role=""/>
+    <member type="way" ref="367787160" role=""/>
+    <member type="way" ref="572883689" role=""/>
+    <member type="way" ref="191714254" role=""/>
+    <member type="way" ref="100702203" role=""/>
+    <member type="way" ref="572883690" role=""/>
+    <member type="way" ref="424530500" role=""/>
+    <member type="way" ref="424530502" role=""/>
+    <member type="way" ref="572883693" role=""/>
+    <member type="way" ref="572883694" role=""/>
+    <member type="way" ref="572883691" role=""/>
+    <member type="way" ref="572883692" role=""/>
+    <member type="way" ref="100702212" role=""/>
+    <member type="way" ref="31635813" role=""/>
+    <member type="way" ref="572883695" role=""/>
+    <member type="way" ref="572883696" role=""/>
+    <member type="way" ref="572883697" role=""/>
+    <member type="way" ref="572883698" role=""/>
+    <member type="way" ref="572883699" role=""/>
+    <member type="way" ref="31635811" role=""/>
+    <member type="way" ref="129437431" role=""/>
+    <member type="way" ref="572883700" role=""/>
+    <member type="way" ref="572883701" role=""/>
+    <member type="way" ref="572883702" role=""/>
+    <member type="way" ref="572883703" role=""/>
+    <member type="way" ref="572883704" role=""/>
+    <member type="way" ref="572883705" role=""/>
+    <member type="way" ref="572883706" role=""/>
+    <member type="way" ref="572883707" role=""/>
+    <member type="way" ref="572883709" role=""/>
+    <member type="way" ref="572883713" role=""/>
+    <tag k="colour" v="#009933"/>
+    <tag k="from" v="South Hylton"/>
+    <tag k="interval" v="12"/>
+    <tag k="interval:evening" v="15"/>
+    <tag k="interval:sunday" v="15"/>
+    <tag k="name" v="Green Line (South Hylton → Airport)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Green"/>
+    <tag k="route" v="light_rail"/>
+    <tag k="to" v="Airport"/>
+    <tag k="type" v="route"/>
+    <tag k="wheelchair" v="yes"/>
+  </relation>
+  <relation id="8215232" version="3" timestamp="2018-04-21T15:46:12Z" changeset="58293135" uid="341391" user="MrBoyt">
+    <member type="node" ref="4536389841" role="stop"/>
+    <member type="node" ref="2467844390" role="stop"/>
+    <member type="way" ref="48837172" role="platform"/>
+    <member type="node" ref="2467844221" role="stop"/>
+    <member type="way" ref="48834684" role="platform"/>
+    <member type="node" ref="4524026886" role="stop"/>
+    <member type="way" ref="164116078" role="platform"/>
+    <member type="node" ref="4492377624" role="stop"/>
+    <member type="way" ref="136119851" role="platform"/>
+    <member type="node" ref="2474134427" role="stop"/>
+    <member type="way" ref="30985965" role="platform"/>
+    <member type="node" ref="2551830429" role="stop"/>
+    <member type="way" ref="31821692" role="platform"/>
+    <member type="node" ref="2551830422" role="stop"/>
+    <member type="way" ref="33608363" role="platform"/>
+    <member type="node" ref="208515015" role="stop"/>
+    <member type="way" ref="248390163" role="platform"/>
+    <member type="node" ref="2551830426" role="stop"/>
+    <member type="way" ref="248390164" role="platform"/>
+    <member type="node" ref="2551830423" role="stop"/>
+    <member type="way" ref="30640520" role="platform"/>
+    <member type="node" ref="2551830425" role="stop"/>
+    <member type="way" ref="248390159" role="platform"/>
+    <member type="node" ref="2551830428" role="stop"/>
+    <member type="node" ref="2551830421" role="stop"/>
+    <member type="way" ref="29293348" role="platform"/>
+    <member type="node" ref="2551830762" role="stop"/>
+    <member type="way" ref="29271943" role="platform"/>
+    <member type="node" ref="2551830424" role="stop"/>
+    <member type="way" ref="35541258" role="platform"/>
+    <member type="node" ref="2551830430" role="stop"/>
+    <member type="way" ref="248390160" role="platform"/>
+    <member type="node" ref="2551830427" role="stop"/>
+    <member type="way" ref="29273060" role="platform"/>
+    <member type="node" ref="205206318" role="stop"/>
+    <member type="node" ref="205206298" role="stop"/>
+    <member type="way" ref="132580507" role="platform"/>
+    <member type="node" ref="205195346" role="stop"/>
+    <member type="node" ref="205195335" role="stop"/>
+    <member type="node" ref="205195318" role="stop"/>
+    <member type="node" ref="29064297" role="stop"/>
+    <member type="way" ref="164116950" role="platform"/>
+    <member type="node" ref="29081582" role="stop"/>
+    <member type="way" ref="248095226" role="platform"/>
+    <member type="node" ref="502598580" role="stop"/>
+    <member type="way" ref="132704549" role="platform"/>
+    <member type="node" ref="206103761" role="stop"/>
+    <member type="node" ref="1755186179" role="stop"/>
+    <member type="node" ref="4523747614" role="stop"/>
+    <member type="way" ref="48837042" role="platform"/>
+    <member type="node" ref="317395907" role="stop"/>
+    <member type="node" ref="1458167723" role="stop"/>
+    <member type="node" ref="1458168114" role="stop"/>
+    <member type="way" ref="132577259" role="platform"/>
+    <member type="node" ref="2549403066" role="stop"/>
+    <member type="way" ref="132577260" role="platform"/>
+    <member type="node" ref="3055853082" role="stop"/>
+    <member type="node" ref="1457848021" role="stop"/>
+    <member type="way" ref="132577261" role="platform"/>
+    <member type="node" ref="1457878038" role="stop"/>
+    <member type="way" ref="132577258" role="platform"/>
+    <member type="node" ref="208519376" role="stop"/>
+    <member type="way" ref="132547546" role="platform"/>
+    <member type="node" ref="4523983416" role="stop"/>
+    <member type="way" ref="132547544" role="platform"/>
+    <member type="node" ref="4523985537" role="stop"/>
+    <member type="way" ref="132547541" role="platform"/>
+    <member type="node" ref="1457877915" role="stop"/>
+    <member type="way" ref="132547548" role="platform"/>
+    <member type="node" ref="1457877906" role="stop"/>
+    <member type="node" ref="4524808330" role="stop"/>
+    <member type="way" ref="132547543" role="platform"/>
+    <member type="way" ref="456103395" role=""/>
+    <member type="way" ref="458923656" role=""/>
+    <member type="way" ref="188010165" role=""/>
+    <member type="way" ref="164116081" role=""/>
+    <member type="way" ref="164116086" role=""/>
+    <member type="way" ref="164116075" role=""/>
+    <member type="way" ref="239631281" role=""/>
+    <member type="way" ref="239631279" role=""/>
+    <member type="way" ref="239631280" role=""/>
+    <member type="way" ref="239631278" role=""/>
+    <member type="way" ref="239633372" role=""/>
+    <member type="way" ref="239633370" role=""/>
+    <member type="way" ref="239633369" role=""/>
+    <member type="way" ref="239633373" role=""/>
+    <member type="way" ref="239633374" role=""/>
+    <member type="way" ref="248156864" role=""/>
+    <member type="way" ref="248390090" role=""/>
+    <member type="way" ref="248390068" role=""/>
+    <member type="way" ref="248390097" role=""/>
+    <member type="way" ref="248390067" role=""/>
+    <member type="way" ref="248390063" role=""/>
+    <member type="way" ref="248390083" role=""/>
+    <member type="way" ref="248390071" role=""/>
+    <member type="way" ref="248390087" role=""/>
+    <member type="way" ref="248390066" role=""/>
+    <member type="way" ref="248390082" role=""/>
+    <member type="way" ref="248390098" role=""/>
+    <member type="way" ref="248390075" role=""/>
+    <member type="way" ref="248390086" role=""/>
+    <member type="way" ref="248390088" role=""/>
+    <member type="way" ref="248390065" role=""/>
+    <member type="way" ref="248390084" role=""/>
+    <member type="way" ref="248390061" role=""/>
+    <member type="way" ref="248390081" role=""/>
+    <member type="way" ref="248390078" role=""/>
+    <member type="way" ref="248390080" role=""/>
+    <member type="way" ref="248390095" role=""/>
+    <member type="way" ref="248390073" role=""/>
+    <member type="way" ref="248390094" role=""/>
+    <member type="way" ref="248390092" role=""/>
+    <member type="way" ref="248390099" role=""/>
+    <member type="way" ref="248390070" role=""/>
+    <member type="way" ref="248390100" role=""/>
+    <member type="way" ref="248390077" role=""/>
+    <member type="way" ref="248390062" role=""/>
+    <member type="way" ref="248390101" role=""/>
+    <member type="way" ref="248390096" role=""/>
+    <member type="way" ref="248390076" role=""/>
+    <member type="way" ref="248390089" role=""/>
+    <member type="way" ref="248390085" role=""/>
+    <member type="way" ref="248390091" role=""/>
+    <member type="way" ref="248390079" role=""/>
+    <member type="way" ref="19737231" role=""/>
+    <member type="way" ref="19737474" role=""/>
+    <member type="way" ref="19736361" role=""/>
+    <member type="way" ref="133370028" role=""/>
+    <member type="way" ref="133370027" role=""/>
+    <member type="way" ref="30885635" role=""/>
+    <member type="way" ref="30885636" role=""/>
+    <member type="way" ref="30885643" role=""/>
+    <member type="way" ref="30885644" role=""/>
+    <member type="way" ref="143652481" role=""/>
+    <member type="way" ref="143652487" role=""/>
+    <member type="way" ref="19781691" role=""/>
+    <member type="way" ref="19781690" role=""/>
+    <member type="way" ref="133370029" role=""/>
+    <member type="way" ref="188010571" role=""/>
+    <member type="way" ref="37690989" role=""/>
+    <member type="way" ref="2541791" role=""/>
+    <member type="way" ref="248095118" role=""/>
+    <member type="way" ref="248095138" role=""/>
+    <member type="way" ref="28872794" role=""/>
+    <member type="way" ref="132577148" role=""/>
+    <member type="way" ref="132577155" role=""/>
+    <member type="way" ref="560206597" role=""/>
+    <member type="way" ref="132577139" role=""/>
+    <member type="way" ref="132544275" role=""/>
+    <member type="way" ref="132577146" role=""/>
+    <member type="way" ref="132577141" role=""/>
+    <member type="way" ref="133794794" role=""/>
+    <member type="way" ref="133794814" role=""/>
+    <member type="way" ref="132577142" role=""/>
+    <member type="way" ref="132577144" role=""/>
+    <member type="way" ref="132577143" role=""/>
+    <member type="way" ref="132577140" role=""/>
+    <member type="way" ref="132544273" role=""/>
+    <member type="way" ref="132544270" role=""/>
+    <member type="way" ref="239591047" role=""/>
+    <member type="way" ref="132544295" role=""/>
+    <member type="way" ref="132544285" role=""/>
+    <member type="way" ref="27283949" role=""/>
+    <member type="way" ref="132547504" role=""/>
+    <member type="way" ref="132547485" role=""/>
+    <member type="way" ref="132547505" role=""/>
+    <member type="way" ref="132547472" role=""/>
+    <member type="way" ref="132547476" role=""/>
+    <member type="way" ref="132547483" role=""/>
+    <member type="way" ref="132547486" role=""/>
+    <member type="way" ref="132547499" role=""/>
+    <member type="way" ref="132577149" role=""/>
+    <member type="way" ref="132547475" role=""/>
+    <member type="way" ref="132577152" role=""/>
+    <member type="way" ref="132577151" role=""/>
+    <member type="way" ref="132547471" role=""/>
+    <member type="way" ref="133794815" role=""/>
+    <member type="way" ref="133794786" role=""/>
+    <member type="way" ref="432346662" role=""/>
+    <member type="way" ref="432346656" role=""/>
+    <member type="way" ref="132547488" role=""/>
+    <member type="way" ref="132547470" role=""/>
+    <member type="way" ref="132547501" role=""/>
+    <member type="way" ref="132547494" role=""/>
+    <member type="way" ref="132547480" role=""/>
+    <member type="way" ref="132547497" role=""/>
+    <member type="way" ref="132547482" role=""/>
+    <member type="way" ref="132547474" role=""/>
+    <member type="way" ref="458886540" role=""/>
+    <member type="way" ref="458886541" role=""/>
+    <member type="way" ref="132547477" role=""/>
+    <member type="way" ref="132547478" role=""/>
+    <member type="way" ref="132547496" role=""/>
+    <member type="way" ref="132547500" role=""/>
+    <member type="way" ref="133794787" role=""/>
+    <member type="way" ref="133794801" role=""/>
+    <member type="way" ref="132547484" role=""/>
+    <member type="way" ref="132547479" role=""/>
+    <tag k="colour" v="#d39f06"/>
+    <tag k="from" v="St James"/>
+    <tag k="interval" v="12"/>
+    <tag k="interval:evening" v="15"/>
+    <tag k="interval:sunday" v="15"/>
+    <tag k="name" v="Yellow Line (St James → South Shields)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Yellow"/>
+    <tag k="route" v="light_rail"/>
+    <tag k="to" v="South Shields"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="8215233" version="3" timestamp="2018-04-21T15:46:13Z" changeset="58293135" uid="341391" user="MrBoyt">
+    <member type="node" ref="208519418" role="stop"/>
+    <member type="way" ref="132547543" role="platform"/>
+    <member type="node" ref="208519409" role="stop"/>
+    <member type="node" ref="208519422" role="stop"/>
+    <member type="way" ref="132547547" role="platform"/>
+    <member type="node" ref="208519391" role="stop"/>
+    <member type="way" ref="132547542" role="platform"/>
+    <member type="node" ref="4523983415" role="stop"/>
+    <member type="way" ref="132547536" role="platform"/>
+    <member type="node" ref="502599466" role="stop"/>
+    <member type="way" ref="132547537" role="platform"/>
+    <member type="node" ref="208519345" role="stop"/>
+    <member type="way" ref="132577256" role="platform"/>
+    <member type="node" ref="717554302" role="stop"/>
+    <member type="way" ref="132577261" role="platform"/>
+    <member type="node" ref="299498726" role="stop"/>
+    <member type="node" ref="4523834555" role="stop"/>
+    <member type="way" ref="132577260" role="platform"/>
+    <member type="node" ref="299498935" role="stop"/>
+    <member type="way" ref="132577259" role="platform"/>
+    <member type="node" ref="208564843" role="stop"/>
+    <member type="node" ref="4523747621" role="stop"/>
+    <member type="node" ref="1755220888" role="stop"/>
+    <member type="way" ref="48837454" role="platform"/>
+    <member type="node" ref="1755186062" role="stop"/>
+    <member type="node" ref="1755158235" role="stop"/>
+    <member type="node" ref="502599446" role="stop"/>
+    <member type="way" ref="132704548" role="platform"/>
+    <member type="node" ref="1757755413" role="stop"/>
+    <member type="way" ref="248095232" role="platform"/>
+    <member type="node" ref="1757755325" role="stop"/>
+    <member type="way" ref="164116956" role="platform"/>
+    <member type="node" ref="2550014547" role="stop"/>
+    <member type="node" ref="2550014544" role="stop"/>
+    <member type="node" ref="2550014541" role="stop"/>
+    <member type="node" ref="2550014553" role="stop"/>
+    <member type="way" ref="132580508" role="platform"/>
+    <member type="node" ref="2550014550" role="stop"/>
+    <member type="node" ref="205206338" role="stop"/>
+    <member type="way" ref="29273046" role="platform"/>
+    <member type="node" ref="205209751" role="stop"/>
+    <member type="way" ref="248390162" role="platform"/>
+    <member type="node" ref="208516315" role="stop"/>
+    <member type="way" ref="35541295" role="platform"/>
+    <member type="node" ref="1308318255" role="stop"/>
+    <member type="way" ref="107757488" role="platform"/>
+    <member type="node" ref="208516300" role="stop"/>
+    <member type="way" ref="29293355" role="platform"/>
+    <member type="node" ref="502600204" role="stop"/>
+    <member type="node" ref="208515028" role="stop"/>
+    <member type="way" ref="580869782" role="platform"/>
+    <member type="node" ref="308547238" role="stop"/>
+    <member type="way" ref="30640522" role="platform"/>
+    <member type="node" ref="208515030" role="stop"/>
+    <member type="way" ref="248390165" role="platform"/>
+    <member type="node" ref="2266119242" role="stop"/>
+    <member type="way" ref="248390161" role="platform"/>
+    <member type="node" ref="208515010" role="stop"/>
+    <member type="way" ref="33608365" role="platform"/>
+    <member type="node" ref="208515011" role="stop"/>
+    <member type="way" ref="31821699" role="platform"/>
+    <member type="node" ref="1308288538" role="stop"/>
+    <member type="way" ref="115672083" role="platform"/>
+    <member type="node" ref="208514988" role="stop"/>
+    <member type="way" ref="136119847" role="platform"/>
+    <member type="node" ref="208533008" role="stop"/>
+    <member type="way" ref="164116085" role="platform"/>
+    <member type="node" ref="205146083" role="stop"/>
+    <member type="way" ref="48834737" role="platform"/>
+    <member type="node" ref="2549403073" role="stop"/>
+    <member type="way" ref="48837616" role="platform"/>
+    <member type="node" ref="4523814486" role="stop"/>
+    <member type="way" ref="132547479" role=""/>
+    <member type="way" ref="132547487" role=""/>
+    <member type="way" ref="132547502" role=""/>
+    <member type="way" ref="133794795" role=""/>
+    <member type="way" ref="133794770" role=""/>
+    <member type="way" ref="132547493" role=""/>
+    <member type="way" ref="22958467" role=""/>
+    <member type="way" ref="33044691" role=""/>
+    <member type="way" ref="132547473" role=""/>
+    <member type="way" ref="458886538" role=""/>
+    <member type="way" ref="458886539" role=""/>
+    <member type="way" ref="132547491" role=""/>
+    <member type="way" ref="132547498" role=""/>
+    <member type="way" ref="132547489" role=""/>
+    <member type="way" ref="19881143" role=""/>
+    <member type="way" ref="57836786" role=""/>
+    <member type="way" ref="67854290" role=""/>
+    <member type="way" ref="67854299" role=""/>
+    <member type="way" ref="132547492" role=""/>
+    <member type="way" ref="432346666" role=""/>
+    <member type="way" ref="432346671" role=""/>
+    <member type="way" ref="133794790" role=""/>
+    <member type="way" ref="133794784" role=""/>
+    <member type="way" ref="132577151" role=""/>
+    <member type="way" ref="132547503" role=""/>
+    <member type="way" ref="132547481" role=""/>
+    <member type="way" ref="132547495" role=""/>
+    <member type="way" ref="132547499" role=""/>
+    <member type="way" ref="132547486" role=""/>
+    <member type="way" ref="132547483" role=""/>
+    <member type="way" ref="132547476" role=""/>
+    <member type="way" ref="132547472" role=""/>
+    <member type="way" ref="132577154" role=""/>
+    <member type="way" ref="132547490" role=""/>
+    <member type="way" ref="132577153" role=""/>
+    <member type="way" ref="27283949" role=""/>
+    <member type="way" ref="456257525" role=""/>
+    <member type="way" ref="132544290" role=""/>
+    <member type="way" ref="132544289" role=""/>
+    <member type="way" ref="27284308" role=""/>
+    <member type="way" ref="27284305" role=""/>
+    <member type="way" ref="132577137" role=""/>
+    <member type="way" ref="572883680" role=""/>
+    <member type="way" ref="32994110" role=""/>
+    <member type="way" ref="132577145" role=""/>
+    <member type="way" ref="132577147" role=""/>
+    <member type="way" ref="32994104" role=""/>
+    <member type="way" ref="572883681" role=""/>
+    <member type="way" ref="572883682" role=""/>
+    <member type="way" ref="572883683" role=""/>
+    <member type="way" ref="133794809" role=""/>
+    <member type="way" ref="133794782" role=""/>
+    <member type="way" ref="60205416" role=""/>
+    <member type="way" ref="60205426" role=""/>
+    <member type="way" ref="19883611" role=""/>
+    <member type="way" ref="572883684" role=""/>
+    <member type="way" ref="19882519" role=""/>
+    <member type="way" ref="560206598" role=""/>
+    <member type="way" ref="19882518" role=""/>
+    <member type="way" ref="163848764" role=""/>
+    <member type="way" ref="163844663" role=""/>
+    <member type="way" ref="572883685" role=""/>
+    <member type="way" ref="164116957" role=""/>
+    <member type="way" ref="188010572" role=""/>
+    <member type="way" ref="572883686" role=""/>
+    <member type="way" ref="133370034" role=""/>
+    <member type="way" ref="248156861" role=""/>
+    <member type="way" ref="248156869" role=""/>
+    <member type="way" ref="248156860" role=""/>
+    <member type="way" ref="248156862" role=""/>
+    <member type="way" ref="248156872" role=""/>
+    <member type="way" ref="248156866" role=""/>
+    <member type="way" ref="248156873" role=""/>
+    <member type="way" ref="248156865" role=""/>
+    <member type="way" ref="248156871" role=""/>
+    <member type="way" ref="248156867" role=""/>
+    <member type="way" ref="248156870" role=""/>
+    <member type="way" ref="132581228" role=""/>
+    <member type="way" ref="132581229" role=""/>
+    <member type="way" ref="248390072" role=""/>
+    <member type="way" ref="248390093" role=""/>
+    <member type="way" ref="248390064" role=""/>
+    <member type="way" ref="19880944" role=""/>
+    <member type="way" ref="248390069" role=""/>
+    <member type="way" ref="57833260" role=""/>
+    <member type="way" ref="57833276" role=""/>
+    <member type="way" ref="133765092" role=""/>
+    <member type="way" ref="133765096" role=""/>
+    <member type="way" ref="133765085" role=""/>
+    <member type="way" ref="133765089" role=""/>
+    <member type="way" ref="133765087" role=""/>
+    <member type="way" ref="133765083" role=""/>
+    <member type="way" ref="133765091" role=""/>
+    <member type="way" ref="133765106" role=""/>
+    <member type="way" ref="133765104" role=""/>
+    <member type="way" ref="133765094" role=""/>
+    <member type="way" ref="133765090" role=""/>
+    <member type="way" ref="30106435" role=""/>
+    <member type="way" ref="133765098" role=""/>
+    <member type="way" ref="133765093" role=""/>
+    <member type="way" ref="27184686" role=""/>
+    <member type="way" ref="27184676" role=""/>
+    <member type="way" ref="27184745" role=""/>
+    <member type="way" ref="27184742" role=""/>
+    <member type="way" ref="27184782" role=""/>
+    <member type="way" ref="27184783" role=""/>
+    <member type="way" ref="27283120" role=""/>
+    <member type="way" ref="27283121" role=""/>
+    <member type="way" ref="27283152" role=""/>
+    <member type="way" ref="27283142" role=""/>
+    <member type="way" ref="27283149" role=""/>
+    <member type="way" ref="27283153" role=""/>
+    <member type="way" ref="27471996" role=""/>
+    <member type="way" ref="27471997" role=""/>
+    <member type="way" ref="27472004" role=""/>
+    <member type="way" ref="27472006" role=""/>
+    <member type="way" ref="27472022" role=""/>
+    <member type="way" ref="27472023" role=""/>
+    <member type="way" ref="27472030" role=""/>
+    <member type="way" ref="27472051" role=""/>
+    <member type="way" ref="27472054" role=""/>
+    <member type="way" ref="27472057" role=""/>
+    <member type="way" ref="115675616" role=""/>
+    <member type="way" ref="57833240" role=""/>
+    <member type="way" ref="57833257" role=""/>
+    <member type="way" ref="19880882" role=""/>
+    <member type="way" ref="238976451" role=""/>
+    <member type="way" ref="164116082" role=""/>
+    <member type="way" ref="164116084" role=""/>
+    <member type="way" ref="164116083" role=""/>
+    <member type="way" ref="188010167" role=""/>
+    <tag k="colour" v="#d39f06"/>
+    <tag k="from" v="South Shields"/>
+    <tag k="interval" v="12"/>
+    <tag k="interval:evening" v="15"/>
+    <tag k="interval:sunday" v="15"/>
+    <tag k="name" v="Yellow Line (South Shields → St James)"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Yellow"/>
+    <tag k="route" v="light_rail"/>
+    <tag k="to" v="St James"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="8217769" version="1" timestamp="2018-04-17T13:34:29Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="205195335" role="stop"/>
+    <member type="node" ref="4523982246" role=""/>
+    <member type="node" ref="2550014544" role="stop"/>
+    <tag k="name" v="Four Lane Ends"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217770" version="1" timestamp="2018-04-17T13:34:29Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4523974774" role=""/>
+    <member type="node" ref="205195346" role="stop"/>
+    <member type="node" ref="2550014541" role="stop"/>
+    <tag k="name" v="Benton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217771" version="1" timestamp="2018-04-17T13:34:29Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4524643130" role=""/>
+    <member type="node" ref="205206298" role="stop"/>
+    <member type="way" ref="132580507" role="platform"/>
+    <member type="way" ref="132580508" role="platform"/>
+    <member type="node" ref="2550014553" role="stop"/>
+    <tag k="name" v="Palmersville"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217772" version="1" timestamp="2018-04-17T13:34:29Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4524061408" role=""/>
+    <member type="node" ref="205206318" role="stop"/>
+    <member type="node" ref="2550014550" role="stop"/>
+    <tag k="name" v="Northumberland Court"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217773" version="1" timestamp="2018-04-17T13:34:29Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4524060159" role=""/>
+    <member type="node" ref="205206338" role="stop"/>
+    <member type="node" ref="2551830427" role="stop"/>
+    <member type="way" ref="29273046" role="platform"/>
+    <member type="way" ref="29273060" role="platform"/>
+    <tag k="name" v="Shiremoor"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217774" version="1" timestamp="2018-04-17T13:34:29Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4524059789" role=""/>
+    <member type="node" ref="2551830430" role="stop"/>
+    <member type="node" ref="205209751" role="stop"/>
+    <member type="way" ref="248390162" role="platform"/>
+    <member type="way" ref="248390160" role="platform"/>
+    <tag k="name" v="West Monkseaton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217775" version="1" timestamp="2018-04-17T13:34:29Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="way" ref="35541258" role="platform"/>
+    <member type="way" ref="35541295" role="platform"/>
+    <member type="node" ref="2551830424" role="stop"/>
+    <member type="node" ref="502598314" role=""/>
+    <member type="node" ref="208516315" role="stop"/>
+    <tag k="name" v="Monkseaton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217777" version="1" timestamp="2018-04-17T13:34:30Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4523978553" role=""/>
+    <member type="node" ref="2551830421" role="stop"/>
+    <member type="way" ref="29293348" role="platform"/>
+    <member type="way" ref="29293355" role="platform"/>
+    <member type="node" ref="208516300" role="stop"/>
+    <tag k="name" v="Cullercoats"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217783" version="1" timestamp="2018-04-17T13:34:30Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4524041704" role=""/>
+    <member type="node" ref="208515011" role="stop"/>
+    <member type="node" ref="2551830429" role="stop"/>
+    <member type="way" ref="31821692" role="platform"/>
+    <member type="way" ref="31821699" role="platform"/>
+    <tag k="name" v="Wallsend"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217784" version="2" timestamp="2018-07-16T16:14:08Z" changeset="60769971" uid="115894" user="DaveF">
+    <member type="node" ref="4524023949" role=""/>
+    <member type="node" ref="1308288538" role="stop"/>
+    <member type="node" ref="2474134427" role="stop"/>
+    <member type="way" ref="30985965" role="platform"/>
+    <member type="way" ref="115672083" role="platform"/>
+    <tag k="name" v="Walkergate"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217785" version="1" timestamp="2018-04-17T13:34:31Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4492377623" role=""/>
+    <member type="node" ref="208514988" role="stop"/>
+    <member type="node" ref="4492377624" role="stop"/>
+    <member type="way" ref="136119851" role=""/>
+    <member type="way" ref="136119847" role=""/>
+    <tag k="name" v="Chillingham Road"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217786" version="1" timestamp="2018-04-17T13:34:31Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4524026887" role=""/>
+    <member type="node" ref="4524026886" role="stop"/>
+    <member type="node" ref="208533008" role="stop"/>
+    <member type="way" ref="164116085" role="platform"/>
+    <member type="way" ref="164116078" role="platform"/>
+    <tag k="name" v="Byker"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217787" version="2" timestamp="2018-06-23T21:09:42Z" changeset="60108979" uid="3149234" user="lakedistrict">
+    <member type="way" ref="48834684" role="platform"/>
+    <member type="way" ref="48834737" role="platform"/>
+    <member type="node" ref="205146083" role="stop"/>
+    <member type="node" ref="2467844221" role="stop"/>
+    <member type="node" ref="3814734562" role="station"/>
+    <member type="way" ref="172351590" role="building"/>
+    <tag k="name" v="Manors"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217788" version="1" timestamp="2018-04-17T13:34:31Z" changeset="58168266" uid="493192" user="Santi2222">
+    <member type="node" ref="4524022191" role=""/>
+    <member type="node" ref="4536389841" role="stop"/>
+    <member type="node" ref="4523814486" role="stop"/>
+    <member type="node" ref="5173635138" role=""/>
+    <tag k="name" v="St James"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217809" version="2" timestamp="2018-06-08T14:53:50Z" changeset="59669493" uid="115894" user="DaveF">
+    <member type="way" ref="595538735" role=""/>
+    <member type="way" ref="468548264" role=""/>
+    <member type="node" ref="4524808330" role="stop"/>
+    <member type="node" ref="208519418" role="stop"/>
+    <member type="way" ref="132547543" role="platform"/>
+    <tag k="name" v="South Shields"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217810" version="1" timestamp="2018-04-17T13:39:25Z" changeset="58168431" uid="493192" user="Santi2222">
+    <member type="way" ref="436393557" role=""/>
+    <member type="node" ref="208519409" role="stop"/>
+    <member type="node" ref="1457877906" role="stop"/>
+    <tag k="name" v="Chichester"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217811" version="2" timestamp="2018-06-08T14:34:54Z" changeset="59669493" uid="115894" user="DaveF">
+    <member type="way" ref="132547547" role="platform"/>
+    <member type="way" ref="132547548" role="platform"/>
+    <member type="node" ref="208519422" role="stop"/>
+    <member type="node" ref="1457877915" role="stop"/>
+    <member type="way" ref="468548263" role=""/>
+    <member type="way" ref="595532046" role=""/>
+    <tag k="name" v="Tyne Dock"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217812" version="1" timestamp="2018-04-17T13:39:25Z" changeset="58168431" uid="493192" user="Santi2222">
+    <member type="way" ref="468548262" role=""/>
+    <member type="node" ref="208519391" role="stop"/>
+    <member type="node" ref="4523985537" role="stop"/>
+    <member type="way" ref="132547541" role="platform"/>
+    <member type="way" ref="132547542" role="platform"/>
+    <tag k="name" v="Simonside"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217813" version="1" timestamp="2018-04-17T13:39:25Z" changeset="58168431" uid="493192" user="Santi2222">
+    <member type="node" ref="4523983417" role=""/>
+    <member type="node" ref="4523983416" role="stop"/>
+    <member type="way" ref="132547544" role="platform"/>
+    <member type="node" ref="4523983415" role="stop"/>
+    <member type="way" ref="132547536" role="platform"/>
+    <tag k="name" v="Bede"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217814" version="1" timestamp="2018-04-17T13:39:25Z" changeset="58168431" uid="493192" user="Santi2222">
+    <member type="node" ref="4523987433" role=""/>
+    <member type="way" ref="132547546" role="platform"/>
+    <member type="way" ref="132547537" role="platform"/>
+    <member type="node" ref="502599466" role="stop"/>
+    <member type="node" ref="208519376" role="stop"/>
+    <tag k="name" v="Jarrow"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217815" version="1" timestamp="2018-04-17T13:39:25Z" changeset="58168431" uid="493192" user="Santi2222">
+    <member type="way" ref="132577258" role="platform"/>
+    <member type="way" ref="132577256" role="platform"/>
+    <member type="node" ref="1457878038" role="stop"/>
+    <member type="node" ref="4523988187" role=""/>
+    <member type="node" ref="208519345" role="stop"/>
+    <tag k="name" v="Hebburn"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8217816" version="1" timestamp="2018-04-17T13:39:25Z" changeset="58168431" uid="493192" user="Santi2222">
+    <member type="node" ref="4524066897" role=""/>
+    <member type="node" ref="205195318" role="stop"/>
+    <member type="node" ref="2550014547" role="stop"/>
+    <tag k="name" v="Longbenton"/>
+    <tag k="network" v="Tyne and Wear Metro"/>
+    <tag k="operator" v="Nexus"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+
+</osm>
